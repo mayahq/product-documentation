@@ -24,7 +24,7 @@ description: Splits a message into a sequence of messages.
 
 
 
-![](<../../../.gitbook/assets/image (52).png>)
+![](<../../../.gitbook/assets/image (52) (1).png>)
 
 ### Details
 

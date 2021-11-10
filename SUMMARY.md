@@ -72,7 +72,7 @@
     * [Custom Search In](product/node-library/command-bar/custom-search-in.md)
     * [Custom Search Out](product/node-library/command-bar/custom-search-out.md)
 * [Web Extension](product/maya-browser-extension/README.md)
-  * [Recording](product/maya-browser-extension/recording.md)
+  * [Recording Xpaths](product/maya-browser-extension/recording-xpaths.md)
 * [Changelog](product/changelog.md)
 
 ## Tutorials <a href="building-skills-1" id="building-skills-1"></a>

@@ -14,7 +14,7 @@ description: Sends responses back to requests received from an HTTP Input node.
 
 No outputs, this is a final node.
 
-![](<../../../../.gitbook/assets/image (46).png>)
+![](<../../../../.gitbook/assets/image (46) (1).png>)
 
 ### Details :&#x20;
 
