@@ -12,7 +12,7 @@ Messages in any format.
 
 Outputs sequences of messages.
 
-![](<../../../.gitbook/assets/image (31).png>)
+![](<../../../.gitbook/assets/image (34).png>)
 
 ### Details
 

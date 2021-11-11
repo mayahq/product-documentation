@@ -6,14 +6,14 @@ description: Sets a property based on the provided template.
 
 ### Inputs
 
-* `msg` (object) : A msg object containing information to populate the template.&#x20;
+* `msg` (object) : A msg object containing information to populate the template.
 * `template` (string) : A template to be populated from msg.payload. If not configured in the edit panel, this can be set as a property of msg.
 
 ### Outputs
 
 * `msg` (object) : a msg with a property set by populating the configured template with properties from the incoming msg.
 
-![](<../../../.gitbook/assets/image (51).png>)
+![](<../../../.gitbook/assets/image (55).png>)
 
 ### Details
 
@@ -44,4 +44,4 @@ Hello Fred. Today is Monday
 
 It is possible to use a property from the flow context or global context. Just use `{{flow.name}}` or `{{global.name}}`, or for persistable store `store` use `{{flow[store].name}}` or `{{global[store].name}}`.
 
-**Note: **By default, _mustache_ will escape any non-alphanumeric or HTML entities in the values it substitutes. To prevent this, use `{{{triple}}}` braces.
+\*\*Note: \*\*By default, _mustache_ will escape any non-alphanumeric or HTML entities in the values it substitutes. To prevent this, use `{{{triple}}}` braces.

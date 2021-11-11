@@ -4,7 +4,7 @@ description: Add dynamic line, bar, pie, polar area and radar charts to the Maya
 
 # Chart
 
-![](<../../../.gitbook/assets/image (24).png>)
+![](<../../../.gitbook/assets/image (27).png>)
 
 ### Live data
 

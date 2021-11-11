@@ -8,14 +8,14 @@ description: >-
 
 ### Inputs
 
-* `delay` (number) : Sets the delay, in milliseconds, to be applied to the message. This option only applies if the node is configured to allow the message to override the configured default delay interval.&#x20;
+* `delay` (number) : Sets the delay, in milliseconds, to be applied to the message. This option only applies if the node is configured to allow the message to override the configured default delay interval.
 * `reset` : If a message is received with this property, any timeout or repeat currently in progress will be cleared and no message triggered.
 
-### Outputs&#x20;
+### Outputs
 
 Outputs a standard `msg` object.
 
-![](<../../../.gitbook/assets/image (22).png>)
+![](<../../../.gitbook/assets/image (25).png>)
 
 ### Details
 

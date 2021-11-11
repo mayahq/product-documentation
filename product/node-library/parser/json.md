@@ -13,12 +13,12 @@ description: >-
 
 ### Outputs
 
-* `payload` (object | string) :&#x20;
+* `payload` (object | string) :
   * If the input is a JSON string it tries to parse it to a JavaScript object.
   * If the input is a JavaScript object it creates a JSON string. The string can optionally be well-formatted.
 * `schemaError` (array) : If JSON schema validation fails, the catch node will have a `schemaError` property containing an array of errors.
 
-![](<../../../.gitbook/assets/image (39).png>)
+![](<../../../.gitbook/assets/image (42).png>)
 
 ### Details
 
@@ -29,4 +29,3 @@ The node can also be configured to ensure a particular encoding instead of toggl
 If the node is configured to ensure the property is encoded as a String and it receives a String, no further checks will be made of the property. It will not check the String is valid JSON nor will it reformat it if the format option is selected.
 
 For more details about JSON Schema you can consult the specification [here](http://json-schema.org/latest/json-schema-validation.html).
-

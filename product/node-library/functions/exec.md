@@ -10,24 +10,24 @@ The command that is run can be configured in the node or provided by the receive
 
 ### Inputs
 
-* `payload` (string) : if configured to do so, will be appended to the executed command.&#x20;
-* `kill` (string) : the type of kill signal to send an existing exec node process.&#x20;
+* `payload` (string) : if configured to do so, will be appended to the executed command.
+* `kill` (string) : the type of kill signal to send an existing exec node process.
 * `pid` (number|string) : the process ID of an existing exec node process to kill.
 
 ### Outputs
 
-This node has the following three output nodes :&#x20;
+This node has the following three output nodes :
 
-1. Standard output :&#x20;
-   * `payload` (string) : the standard output of the command.&#x20;
+1. Standard output :
+   * `payload` (string) : the standard output of the command.
    * `rc` (object) : exec mode only, a copy of the return code object (also available on port 3)
-2. Standard error :&#x20;
-   1. `payload` (string) : the standard error of the command.&#x20;
+2. Standard error :
+   1. `payload` (string) : the standard error of the command.
    2. `rc` (object) : exec mode only, a copy of the return code object (also available on port 3)
 3. Return code :
    1. `payload` (object) : an object containing the return code, and possibly `message`, `signal` properties.
 
-![](<../../../.gitbook/assets/image (30).png>)
+![](<../../../.gitbook/assets/image (33).png>)
 
 ### Details
 

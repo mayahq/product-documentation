@@ -10,10 +10,10 @@ description: Reads the contents of a file as either a string or binary buffer.
 
 ### Outputs
 
-* `payload` (string | buffer) : The contents of the file as either a string or binary buffer.&#x20;
+* `payload` (string | buffer) : The contents of the file as either a string or binary buffer.
 * `filename` (string) : If not configured in the node, this optional property sets the name of the file to be read.
 
-![](<../../../.gitbook/assets/image (17).png>)
+![](<../../../.gitbook/assets/image (19).png>)
 
 ### Details
 

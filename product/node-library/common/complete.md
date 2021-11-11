@@ -12,9 +12,9 @@ This is a trigger node so there are no inputs.
 
 None of the fields are populated, but a `msg` object is outputted.
 
-![](<../../../.gitbook/assets/image (47).png>)
+![](<../../../.gitbook/assets/image (51).png>)
 
-### Details&#x20;
+### Details
 
 If a node tells the runtime when it has finished handling a message, this node can be used to trigger a second flow.
 

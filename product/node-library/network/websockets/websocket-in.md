@@ -12,7 +12,7 @@ No inputs, because this is trigger node.
 
 By default, the data received from the WebSocket will be in `msg.payload.`
 
-![](<../../../../.gitbook/assets/image (54).png>)
+![](<../../../../.gitbook/assets/image (59).png>)
 
 ### Details
 

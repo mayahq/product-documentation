@@ -8,19 +8,19 @@ Displays selected message properties in the debug sidebar tab and optionally the
 
 ### Inputs
 
-By default it prints out `msg.payload`, but can also print&#x20;
+By default it prints out `msg.payload`, but can also print
 
-### Outputs&#x20;
+### Outputs
 
 This is a final node so doesn't have any outputs.
 
-### Attributes&#x20;
+### Attributes
 
 * Output : Select what to print to debug console
 * To : Select where all to output it to
 * Name : Name of the node instance
 
-![](<../../../.gitbook/assets/image (27).png>)
+![](<../../../.gitbook/assets/image (30).png>)
 
 ### Details
 

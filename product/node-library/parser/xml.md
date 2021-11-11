@@ -13,13 +13,11 @@ description: >-
 
 ### Outputs
 
-* `payload` (object | string) :&#x20;
+* `payload` (object | string) :
   * If the input is a string it tries to parse it as XML and creates a JavaScript object.
   * If the input is a JavaScript object it tries to build an XML string.
 
-
-
-![](<../../../.gitbook/assets/image (32).png>)
+![](<../../../.gitbook/assets/image (35).png>)
 
 ### Details
 
@@ -41,4 +39,3 @@ For example, the following XML will be converted as shown:
   }
 }
 ```
-

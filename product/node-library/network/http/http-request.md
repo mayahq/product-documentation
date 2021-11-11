@@ -16,14 +16,14 @@ description: Sends HTTP requests and returns the response.
 
 ### Outputs
 
-* `payload` (string | object | buffer) :  The body of the response. The node can be configured to return the body as a string, attempt to parse it as a JSON string or leave it as a binary buffer.&#x20;
-* `statusCode`(number) : The status code of the response, or the error code if the request could not be completed.&#x20;
-* `headers` (object) : An object containing the response headers.&#x20;
-* `responseUrl` (string) : In case any redirects occurred while processing the request, this property is the final redirected url. Otherwise, the url of the original request.&#x20;
-* `responseCookies` (object) : If the response includes cookies, this propery is an object of name/value pairs for each cookie.&#x20;
+* `payload` (string | object | buffer) : The body of the response. The node can be configured to return the body as a string, attempt to parse it as a JSON string or leave it as a binary buffer.
+* `statusCode`(number) : The status code of the response, or the error code if the request could not be completed.
+* `headers` (object) : An object containing the response headers.
+* `responseUrl` (string) : In case any redirects occurred while processing the request, this property is the final redirected url. Otherwise, the url of the original request.
+* `responseCookies` (object) : If the response includes cookies, this propery is an object of name/value pairs for each cookie.
 * `redirectList` (array) : If the request was redirected one or more times, the accumulated information will be added to this property. `location` is the next redirect destination. `cookies` is the cookies returned from the redirect source.
 
-![](<../../../../.gitbook/assets/image (43).png>)
+![](<../../../../.gitbook/assets/image (46).png>)
 
 ### Details
 

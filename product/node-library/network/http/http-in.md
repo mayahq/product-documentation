@@ -20,7 +20,7 @@ No inputs, since this is a trigger node to except requests from outside.
   * `files` - if enabled within the node, an object containing any files uploaded as part of a POST request.
 * `res` (object) : An HTTP response object. This property should not be used directly; the `HTTP Response` node documents how to respond to a request. This property must remain attached to the message passed to the response node.
 
-![](<../../../../.gitbook/assets/image (25).png>)
+![](<../../../../.gitbook/assets/image (28).png>)
 
 ### Details
 

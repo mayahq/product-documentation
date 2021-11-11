@@ -12,7 +12,7 @@ Just the `msg` object required, no specific keys are used.
 
 Multiple output ports can be added, based on the number of conditions being switched between.
 
-![](<../../../.gitbook/assets/image (14).png>)
+![](<../../../.gitbook/assets/image (15).png>)
 
 ### Details
 

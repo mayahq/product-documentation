@@ -9,15 +9,15 @@ description: >-
 
 ### Inputs
 
-* `payload` (number | string | object) : RBE mode will accept numbers, strings, and simple objects. Other modes must provide a parseable number.&#x20;
-* `topic` (string) :  if specified the function will work on a per topic basis. This property can be set by configuration.&#x20;
+* `payload` (number | string | object) : RBE mode will accept numbers, strings, and simple objects. Other modes must provide a parseable number.
+* `topic` (string) : if specified the function will work on a per topic basis. This property can be set by configuration.
 * `reset` (any) : if set clears the stored value for the specified msg.topic, or all topics if msg.topic is not specified.
 
 ### Outputs
 
 * `payload` (as per input) : If triggered the output will be the same as the input.
 
-![](<../../../.gitbook/assets/image (37).png>)
+![](<../../../.gitbook/assets/image (40).png>)
 
 ### Details
 

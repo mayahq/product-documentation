@@ -12,7 +12,7 @@ This is a trigger node so it has no inputs.
 
 The full filename of the file that actually changed is put into `msg.payload` and `msg.filename`, while a stringified version of the watch list is returned in `msg.topic`.
 
-![](<../../../.gitbook/assets/image (41).png>)
+![](<../../../.gitbook/assets/image (44).png>)
 
 ### Details
 
@@ -26,5 +26,4 @@ The full filename of the file that actually changed is put into `msg.payload` an
 
 Of course in Linux, _everything_ is a file and thus can be watched...
 
-**Note: **The directory or file must exist in order to be watched. If the file or directory gets deleted it may no longer be monitored even if it gets re-created.
-
+\*\*Note: \*\*The directory or file must exist in order to be watched. If the file or directory gets deleted it may no longer be monitored even if it gets re-created.

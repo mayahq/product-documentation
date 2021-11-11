@@ -6,17 +6,17 @@ description: Sends responses back to requests received from an HTTP Input node.
 
 ### Inputs
 
-* `payload` (string) : The body of the response.&#x20;
-* `statusCode` (number) : If set, this is used as the response status code. Default: 200.&#x20;
+* `payload` (string) : The body of the response.
+* `statusCode` (number) : If set, this is used as the response status code. Default: 200.
 * `headers` (object) : If set, provides HTTP headers to include in the response. cookiesobject If set, can be used to set or delete cookies.
 
 ### Outputs
 
 No outputs, this is a final node.
 
-![](<../../../../.gitbook/assets/image (46) (1).png>)
+![](<../../../../.gitbook/assets/image (50).png>)
 
-### Details :&#x20;
+### Details :
 
 The `statusCode` and `headers` can also be set within the node itself. If a property is set within the node, it cannot be overridden by the corresponding message property.
 
@@ -46,4 +46,4 @@ The valid options include:
 
 To delete a cookie, set its `value` to `null`.
 
-\
+\\

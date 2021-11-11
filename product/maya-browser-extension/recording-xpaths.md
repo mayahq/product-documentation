@@ -1,6 +1,7 @@
 ---
 description: >-
-  You can use the extension to record xpaths to be used in Maya skills. This tutorial shows you how.
+  You can use the extension to record xpaths to be used in Maya skills. This
+  tutorial shows you how.
 ---
 
 # Recording Xpaths
@@ -9,9 +10,9 @@ description: >-
 
 Go to the website you wish to record on, and click on the Maya logo in your browser toolbar (if it's not present there, click on the puzzle logo to find the extension and pin it). This will open a popup that looks like this -
 
-![](<../../.gitbook/assets/image (52).png>)
+![](<../../.gitbook/assets/image (56).png>)
 
-To start recording, click on the "Record" button at the bottom right, and click anywhere to close the extension popup.&#x20;
+To start recording, click on the "Record" button at the bottom right, and click anywhere to close the extension popup.
 
 {% hint style="info" %}
 Upon clicking "Record", you may be prompted to give the extension permission for the page, if it doesn't already have it.
@@ -19,20 +20,18 @@ Upon clicking "Record", you may be prompted to give the extension permission for
 
 You will see a recorder widget at the top-right of the screen now, looking like this -
 
-![](<../../.gitbook/assets/image (15).png>)
+![](<../../.gitbook/assets/image (16).png>)
 
 You can drag the recorder to any other position on the page if the current position is inconvenient.
 
 ## Modes of recording
 
-There are two modes of recording xpaths from the extension -&#x20;
+There are two modes of recording xpaths from the extension -
 
 1. Single mode - get an xpath that represents single element on a page. For example, a button you want to click or a specific input you want to type into.
 2. Multi mode - get an xpath that represents a list of elements on a page. For example, a list of tweets in a thread or the prices of a list of products on Amazon.
 
 We'll take these modes up in order.
-
-
 
 ### Single Mode
 
@@ -68,7 +67,7 @@ This is a best-effort feature i.e., attribute inclusion/exclusion sometimes may 
 
 ### Multi Mode
 
-If you wish to get an xpath that corresponds to a list of similar elements on a webpage (like a list of prices on Amazon or a series of tweets from a Twitter thread), Multi Mode is the way to go.&#x20;
+If you wish to get an xpath that corresponds to a list of similar elements on a webpage (like a list of prices on Amazon or a series of tweets from a Twitter thread), Multi Mode is the way to go.
 
 #### Switching to Multi Mode
 
@@ -87,11 +86,9 @@ In Multi Mode, you need to select two elements (from the list you want to select
     3. Press ESC to lock selection.
 
     ![](../../.gitbook/assets/mxpath1.gif)
-
-
-2. Now select another element in the list.&#x20;
-   1. With the first element selected, hover over another element in the list.&#x20;
-   2. If the hovered-over element is of the same type as the first element and belongs to some list, the extension will highlight all other elements in the list.&#x20;
+2. Now select another element in the list.
+   1. With the first element selected, hover over another element in the list.
+   2. If the hovered-over element is of the same type as the first element and belongs to some list, the extension will highlight all other elements in the list.
    3. If this is the list you wanted to get, press ESC again to lock selection.
 
 ![Selecting an xpath that represents the list of results in a Google search](<../../.gitbook/assets/mxpath2 (1).gif>)
@@ -101,30 +98,3 @@ The xpaths generated in Multi Mode are not robust, i.e., it's possible that thes
 
 However, these xpaths are still good for more "immediate" use-cases like scraping or one-time automation.
 {% endhint %}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

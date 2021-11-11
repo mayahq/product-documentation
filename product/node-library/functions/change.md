@@ -14,9 +14,9 @@ Just the `msg` object required, no specific keys are used.
 
 Modified `msg` object is outputted through a single port.
 
-![](<../../../.gitbook/assets/image (38).png>)
+![](<../../../.gitbook/assets/image (41).png>)
 
-### Details&#x20;
+### Details
 
 The node can specify multiple rules that will be applied in the order they are defined to modify the msg, flow, or global context. The available operations are:
 

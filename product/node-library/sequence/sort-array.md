@@ -16,7 +16,7 @@ When configured to sort a sequence of messages, it will reorder the messages.
 
 Sorted arrays on `msg.payload`.
 
-![](<../../../.gitbook/assets/image (20).png>)
+![](<../../../.gitbook/assets/image (22).png>)
 
 ### Details
 
@@ -38,4 +38,3 @@ When sorting a message sequence, the sort node relies on the received messages t
 **Note:** This node internally keeps messages for its operation. In order to prevent unexpected memory usage, maximum number of messages kept can be specified. Default is no limit on number of messages.
 
 * `nodeMessageBufferMaxLength` property set in **settings.js**.
-

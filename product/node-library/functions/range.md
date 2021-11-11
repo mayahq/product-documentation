@@ -12,7 +12,7 @@ description: Maps a numeric value to a different range.
 
 * `payload` (number) : The value mapped to the new range.
 
-![](<../../../.gitbook/assets/image (53).png>)
+![](<../../../.gitbook/assets/image (58).png>)
 
 This node will linearly scale the received value. By default, the result is not constrained to the range defined in the node.
 

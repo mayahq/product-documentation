@@ -6,8 +6,6 @@ description: >-
 
 # Function
 
-
-
 ### Inputs
 
 Take in `msg` object via input port.
@@ -16,7 +14,7 @@ Take in `msg` object via input port.
 
 Modified `msg` is passed out of the output node. Multiple output ports can be added.
 
-![](<../../../.gitbook/assets/image (28).png>)
+![](<../../../.gitbook/assets/image (31).png>)
 
 ### Details
 

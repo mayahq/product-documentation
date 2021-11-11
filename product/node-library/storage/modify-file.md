@@ -15,7 +15,7 @@ description: >-
 
 On completion of write, input message is sent to output port.
 
-![](<../../../.gitbook/assets/image (44).png>)
+![](<../../../.gitbook/assets/image (47).png>)
 
 ### Details
 
@@ -28,6 +28,3 @@ It can be configured to overwrite the entire file rather than append. For exampl
 Encoding of data written to a file can be specified from list of encodings.
 
 Alternatively, this node can be configured to delete the file.
-
-
-

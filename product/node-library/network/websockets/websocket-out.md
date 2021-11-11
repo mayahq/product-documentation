@@ -8,7 +8,7 @@ By default, `msg.payload` will be sent over the WebSocket.
 
 No outputs because this is a final node.
 
-![](<../../../../.gitbook/assets/image (55).png>)
+![](<../../../../.gitbook/assets/image (60).png>)
 
 ### Details
 

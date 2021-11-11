@@ -12,13 +12,13 @@ description: >-
 
 ### Outputs
 
-* `payload` (object | array | string) :&#x20;
+* `payload` (object | array | string) :
   * If the input is a string it tries to parse it as CSV and creates a JavaScript object of key/value pairs for each line. The node will then either send a message for each line, or a single message containing an array of objects.
   * If the input is a JavaScript object it tries to build a CSV string.
   * If the input is an array of simple values, it builds a single line CSV string.
   * If the input is an array of arrays, or an array of objects, a multiple-line CSV string is created.
 
-![](<../../../.gitbook/assets/image (21).png>)
+![](<../../../.gitbook/assets/image (24).png>)
 
 ### Details
 

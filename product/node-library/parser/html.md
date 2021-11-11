@@ -8,14 +8,14 @@ description: >-
 
 ### Inputs
 
-* `payload` (string) : the html string from which to extract elements.&#x20;
+* `payload` (string) : the html string from which to extract elements.
 * `select` (string) : if not configured in the edit panel the selector can be set as a property of msg.
 
-### Outputs&#x20;
+### Outputs
 
 * `payload` (array | string) : the result can be either a single message with a payload containing an array of the matched elements, or multiple messages that each contain a matched element. If multiple messages are sent they will also have `parts` set.
 
-![](<../../../.gitbook/assets/image (29).png>)
+![](<../../../.gitbook/assets/image (32).png>)
 
 ### Details
 

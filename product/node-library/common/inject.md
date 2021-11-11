@@ -7,18 +7,18 @@ description: >-
 
 # Inject
 
-### Inputs&#x20;
+### Inputs
 
 This is a trigger node, so it does not accept any inputs.
 
 ### Outputs
 
-* payload (various) : The configured payload of the message.&#x20;
+* payload (various) : The configured payload of the message.
 * topic (string) : An optional property that can be configured in the node.
 
-![](<../../../.gitbook/assets/image (36).png>)
+![](<../../../.gitbook/assets/image (39).png>)
 
-### Details&#x20;
+### Details
 
 The Inject node can initiate a flow with a specific payload value. The default payload is a timestamp of the current time in millisecs since January 1st, 1970.
 

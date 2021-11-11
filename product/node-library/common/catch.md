@@ -11,11 +11,11 @@ This is a trigger node, so no inputs.
 ### Outputs
 
 * `error.message` (string) : the error message
-* `error.source.id` (string) : the id of the node that threw the error.&#x20;
-* `error.source.type` (string) : the type of the node that threw the error.&#x20;
+* `error.source.id` (string) : the id of the node that threw the error.
+* `error.source.type` (string) : the type of the node that threw the error.
 * `error.source.name` (string) : the name, if set, of the node that threw the error.
 
-![](<../../../.gitbook/assets/image (26).png>)
+![](<../../../.gitbook/assets/image (29).png>)
 
 ### Details
 

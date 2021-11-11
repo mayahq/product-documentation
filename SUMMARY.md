@@ -63,6 +63,7 @@
       * [HTTP In](product/node-library/network/http/http-in.md)
       * [HTTP Response](product/node-library/network/http/http-response.md)
       * [HTTP Request](product/node-library/network/http/http-request.md)
+  * [Maya Red Spotify](product/node-library/maya-red-spotify.md)
   * [Command Bar](product/node-library/command-bar/README.md)
     * [Bot Command In](product/node-library/command-bar/bot-command-in.md)
     * [Bot Command Out](product/node-library/command-bar/bot-command-out/README.md)
