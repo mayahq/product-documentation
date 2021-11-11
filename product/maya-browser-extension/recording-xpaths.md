@@ -1,7 +1,6 @@
 ---
 description: >-
-  You can use the extension to record xpaths to be used in Maya skills. This
-  tutorial shows you how.
+  You can use the extension to record xpaths to be used in Maya skills. This tutorial shows you how.
 ---
 
 # Recording Xpaths
