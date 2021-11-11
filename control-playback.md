@@ -1,10 +1,6 @@
----
-description: >-
-  You can use this node to toggle shuffle or repeat, play, pause, resume and
-  skip songs, and add songs to queue.
----
-
 # Control Playback
+
+You can use this node to toggle shuffle or repeat, play, pause, resume and skip songs, and add songs to queue.
 
 ## Properties
 
@@ -27,7 +23,7 @@ When you set the action to "toggleShuffle", you will also additionally need to s
 
 ### How "addToQueue" works
 
-When you set the action to "addToQueue", you will also additionally need to specify the trackUri property. This corresponds to the URI of the track that you want to add to the queue. You can read more about track URIs on Spotify [here](https://community.spotify.com/t5/FAQs/What-s-a-Spotify-URI/ta-p/919201).
+When you set the action to "addToQueue", you will also additionally need to specify the trackUri property. This corresponds to the URI of the track (for example, _spotify:track:4iV5W9uYEdYUVa79Axb7Rh_) that you want to add to the queue. You can read more about track URIs on Spotify [here](https://community.spotify.com/t5/FAQs/What-s-a-Spotify-URI/ta-p/919201).
 
 ## Outputs
 

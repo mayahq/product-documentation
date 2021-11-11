@@ -63,7 +63,6 @@
       * [HTTP In](product/node-library/network/http/http-in.md)
       * [HTTP Response](product/node-library/network/http/http-response.md)
       * [HTTP Request](product/node-library/network/http/http-request.md)
-  * [Maya Red Spotify](product/node-library/maya-red-spotify.md)
   * [Command Bar](product/node-library/command-bar/README.md)
     * [Bot Command In](product/node-library/command-bar/bot-command-in.md)
     * [Bot Command Out](product/node-library/command-bar/bot-command-out/README.md)
@@ -72,6 +71,13 @@
       * [Bot Dash Card](product/node-library/command-bar/bot-command-out/bot-dash-card.md)
     * [Custom Search In](product/node-library/command-bar/custom-search-in.md)
     * [Custom Search Out](product/node-library/command-bar/custom-search-out.md)
+  * [Maya Red Spotify](product/node-library/maya-red-spotify/README.md)
+    * [Get Playback State](product/node-library/maya-red-spotify/get-playback-state.md)
+    * [Control Playback](product/node-library/maya-red-spotify/control-playback.md)
+    * [Play](product/node-library/maya-red-spotify/play.md)
+    * [Library](product/node-library/maya-red-spotify/library.md)
+    * [Playlist](product/node-library/maya-red-spotify/playlist.md)
+    * [Search](product/node-library/maya-red-spotify/search.md)
 * [Web Extension](product/maya-browser-extension/README.md)
   * [Recording Xpaths](product/maya-browser-extension/recording-xpaths.md)
 * [Changelog](product/changelog.md)
@@ -94,3 +100,9 @@
 * [Maya WebQL](miscellaneous/maya-webql.md)
 * [Using Maya Browser Extension to get xpaths](miscellaneous/using-maya-browser-extension-to-get-xpaths.md)
 * [FAQ](miscellaneous/faq.md)
+
+***
+
+* [Get Playback State](get-playback-state.md)
+* [Search](search.md)
+* [Control Playback](control-playback.md)

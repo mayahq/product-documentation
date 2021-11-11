@@ -1,13 +1,9 @@
----
-description: Search through songs, albums, artists and playlists
----
-
 # Search
 
 ## Inputs
 
 * `query` (string) : The search query (what you'd type into the search box if you were to search directly in the spotify app)
-* `searchType` (string) : Comma-separated list of the types of resources you'd like to search through. The possible values of resource types are "artist", "track", "album", and "playlist". If you want to search for playlists, you cannot include any other resource type in the search, i.e., `"playlist,track"` is not a valid value.
+* `searchType` (string) : Comma-separated list of the types of resources you'd like to search through. The possible values of resource types are "artist", "track", "album", and "playlist". If you want to search for playlists, you cannot include any other resource type in the search, i.e., "playlist,track" is not a valid value.
 
 ## Outputs
 

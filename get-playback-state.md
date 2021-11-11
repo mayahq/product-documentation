@@ -1,11 +1,6 @@
----
-description: >-
-  You can use this node to get playback state, i.e., information like what the
-  user is playing, which device they are using, whether their repeat mode is on,
-  etc.
----
-
 # Get Playback State
+
+You can use this node to get playback state, i.e., information like what the user is playing, which device they are using, whether their repeat mode is on, etc.
 
 ## Properties
 
