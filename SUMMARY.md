@@ -81,8 +81,9 @@
 * [Web Extension](product/maya-browser-extension/README.md)
   * [Recording Xpaths](product/maya-browser-extension/recording-xpaths.md)
 * [Changelog](product/changelog.md)
+* [Troubleshooting](product/troubleshooting.md)
 
-## Tutorials <a href="building-skills-1" id="building-skills-1"></a>
+## Tutorials <a href="#building-skills-1" id="building-skills-1"></a>
 
 * [Install skills/modules from store](building-skills-1/install-from-the-store.md)
 * [Skill building fundamentals](building-skills-1/skill-building-fundamentals.md)

@@ -16,6 +16,6 @@ description: >-
   * If the input is a YAML string it tries to parse it to a JavaScript object.
   * If the input is a JavaScript object it creates a YAML string.
 
-![](<../../../.gitbook/assets/image (53).png>)
+![](<../../../.gitbook/assets/image (53) (1).png>)
 
 ###

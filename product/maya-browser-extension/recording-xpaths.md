@@ -20,7 +20,7 @@ Upon clicking "Record", you may be prompted to give the extension permission for
 
 You will see a recorder widget at the top-right of the screen now, looking like this -
 
-![](<../../.gitbook/assets/image (16).png>)
+![](<../../.gitbook/assets/image (16) (1).png>)
 
 You can drag the recorder to any other position on the page if the current position is inconvenient.
 
