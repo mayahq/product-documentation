@@ -2,7 +2,21 @@
 
 Find latest releases [here](https://github.com/mayahq/maya-desktop/releases).
 
-### v0.12.4-beta&#x20;
+### v0.13.0-beta
+
+2021/12/18
+
+* \[New] Reset your app to factory from settings
+* \[New] Import and install any Maya compatible skill collection straight into the editor
+* \[New] Quick export and share your skill collection directly as JSON with any other Maya user
+* \[New] Login through your saved password for Maya in your browser
+* \[New] Search for nodes and install corresponding modules from the editor directly
+* \[New] Hardened security for your locally saved credentials
+* \[New] Fallback implemented if device doesn't have keychain/keyring access
+* \[Enhance] New views added to store: Skill packs are now Collections, Intents are now Commands
+* \[Fix] App intermittently requires logging out to continue working
+
+### v0.12.4-beta
 
 2021/10/20
 
@@ -16,7 +30,7 @@ Find latest releases [here](https://github.com/mayahq/maya-desktop/releases).
 
 ###
 
-### v0.12.3-beta&#x20;
+### v0.12.3-beta
 
 2021/10/06
 
@@ -26,7 +40,7 @@ Find latest releases [here](https://github.com/mayahq/maya-desktop/releases).
 * \[Enhance] Cleaner skill flow animations in Maya Skill Generator
 * \[New] Upgrade to Maya Premium with easy to use subscription pricing
 
-### v0.12.2-beta&#x20;
+### v0.12.2-beta
 
 2021/09/21
 
@@ -38,7 +52,7 @@ Find latest releases [here](https://github.com/mayahq/maya-desktop/releases).
 * \[Enhance] Autoselect first recommendation on service search recommendations
 * \[Enhance] Refocus back to previous application after using command bar
 
-### v0.12.1-beta&#x20;
+### v0.12.1-beta
 
 2021/08/28
 
@@ -47,7 +61,7 @@ Find latest releases [here](https://github.com/mayahq/maya-desktop/releases).
 * \[Fix] Crash on re-login
 * \[Fix] More edge case handled in module profile configurations
 
-### v0.12.0-beta&#x20;
+### v0.12.0-beta
 
 2021/08/23
 
@@ -57,7 +71,7 @@ Find latest releases [here](https://github.com/mayahq/maya-desktop/releases).
 * \[Fix] Command bar card section history
 * \[Enhance] Intercom messenger integrated for live chat support
 
-### v0.11.5-beta&#x20;
+### v0.11.5-beta
 
 2021/08/17
 
@@ -66,7 +80,7 @@ Find latest releases [here](https://github.com/mayahq/maya-desktop/releases).
 * \[Enhance] Reliable handling of error in command execution
 * \[Enhance] Reliable and secure token updates for OAuth services
 
-### v0.11.4-beta&#x20;
+### v0.11.4-beta
 
 2021/07/28
 
@@ -75,7 +89,7 @@ Find latest releases [here](https://github.com/mayahq/maya-desktop/releases).
 * \[Enhance] Maya Web Automation Extension gets a more user friendly permission management
 * \[Fix] Bug preventing refresh of OAuth tokens
 
-### **v0.11.3-beta **
+### \*\*v0.11.3-beta \*\*
 
 2021/07/13
 
@@ -88,7 +102,7 @@ Find latest releases [here](https://github.com/mayahq/maya-desktop/releases).
 * \[New] New Tray menu
 * \[New] Search feature for skills/modules within store
 
-### v0.11.2-beta&#x20;
+### v0.11.2-beta
 
 2021/06/24
 
@@ -98,7 +112,7 @@ Find latest releases [here](https://github.com/mayahq/maya-desktop/releases).
 * \[New] The default command bar invocation hotkey is changed to Alt/Option (⌥) + Space
 * \[Enhance] Faster application network calls
 
-### v0.11.1-beta&#x20;
+### v0.11.1-beta
 
 2021/06/18
 
@@ -107,7 +121,7 @@ Find latest releases [here](https://github.com/mayahq/maya-desktop/releases).
 * \[New] Added Setup Wizard button to let users restart setup wizard
 * \[Enhance] Security patch
 
-### v0.11.0-beta&#x20;
+### v0.11.0-beta
 
 2021/06/13
 
@@ -121,7 +135,7 @@ Find latest releases [here](https://github.com/mayahq/maya-desktop/releases).
 * \[Enhance] The application download and install size reduced to more than 50% from v0.10.4-hotfix-1
 * \[Skills] New skills added to the
 
-### v0.10.4-hotfix-1&#x20;
+### v0.10.4-hotfix-1
 
 2021/05/18
 
@@ -130,7 +144,7 @@ Find latest releases [here](https://github.com/mayahq/maya-desktop/releases).
 * \[Feature] Control your default Chromium based browser with Web-Automation-Module integration and Maya Web Automation Extension now published on Chrome Web Store
 * \[New] New integrations for Google Calendar and Google Drive
 
-### v0.10.4-beta&#x20;
+### v0.10.4-beta
 
 2021/05/12
 
@@ -141,7 +155,7 @@ Find latest releases [here](https://github.com/mayahq/maya-desktop/releases).
 * \[Feature] More Security: All user credentials for 3rd party integrations are now stored in OS Keychain
 * \[Enhance] Faster brain runtime creation with pre-filled default names
 
-### v0.10.3-beta&#x20;
+### v0.10.3-beta
 
 2021/04/10
 
@@ -150,7 +164,7 @@ Find latest releases [here](https://github.com/mayahq/maya-desktop/releases).
 * \[Fix] Setup wizard now updates environment variables for both bash and zsh in MacOS
 * \[Fix] Update notification bar now doesn't overlay on action buttons
 
-### **v0.10.2-beta **
+### \*\*v0.10.2-beta \*\*
 
 2021/04/08
 
@@ -162,7 +176,7 @@ Find latest releases [here](https://github.com/mayahq/maya-desktop/releases).
 * \[Enhance] Hide Maya command bar on hitting Esc when input empty
 * \[Fix] Form validation on profile config creation
 
-### v0.10.1-beta&#x20;
+### v0.10.1-beta
 
 2021/04/05
 
@@ -180,7 +194,7 @@ Find latest releases [here](https://github.com/mayahq/maya-desktop/releases).
 * \[Feature] Landing on Updates section does 'Check for Updates' sections
 * \[Fix] You can now create new brains while installing skillpack or modules from library/store.
 
-### **v0.10.0-beta **
+### \*\*v0.10.0-beta \*\*
 
 2021/03/31
 
