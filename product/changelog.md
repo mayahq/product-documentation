@@ -89,7 +89,7 @@ Find latest releases [here](https://github.com/mayahq/maya-desktop/releases).
 * \[Enhance] Maya Web Automation Extension gets a more user friendly permission management
 * \[Fix] Bug preventing refresh of OAuth tokens
 
-### \*\*v0.11.3-beta \*\*
+### v0.11.3-beta
 
 2021/07/13
 
@@ -164,7 +164,7 @@ Find latest releases [here](https://github.com/mayahq/maya-desktop/releases).
 * \[Fix] Setup wizard now updates environment variables for both bash and zsh in MacOS
 * \[Fix] Update notification bar now doesn't overlay on action buttons
 
-### \*\*v0.10.2-beta \*\*
+### v0.10.2-beta
 
 2021/04/08
 
@@ -194,7 +194,7 @@ Find latest releases [here](https://github.com/mayahq/maya-desktop/releases).
 * \[Feature] Landing on Updates section does 'Check for Updates' sections
 * \[Fix] You can now create new brains while installing skillpack or modules from library/store.
 
-### \*\*v0.10.0-beta \*\*
+### v0.10.0-beta
 
 2021/03/31
 
