@@ -14,7 +14,7 @@ Just the `msg` object required, no specific keys are used.
 
 Modified `msg` object is outputted through a single port.
 
-![](<../../../.gitbook/assets/image (41).png>)
+![](<../../../.gitbook/assets/image (41) (1).png>)
 
 ### Details
 

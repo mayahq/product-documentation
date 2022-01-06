@@ -30,7 +30,7 @@ There are three modes available:
 * **manual** : Join sequences of messages in a variety of ways.
 * **reduce** : sequenceApply an expression against all messages in a sequence to reduce it to a single message.
 
-![](<../../../.gitbook/assets/image (18).png>)
+![](<../../../.gitbook/assets/image (18) (1).png>)
 
 ### Details
 

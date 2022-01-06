@@ -5,7 +5,8 @@
 ## Product
 
 * [Command Bar](product/command-bar.md)
-* [Workspaces](product/workspaces.md)
+* [Workspaces](product/workspaces/README.md)
+  * [Importing JSON Workflows](product/workspaces/importing-json-workflows.md)
 * [Modules](product/brains-modules-and-skills/README.md)
   * [Config Profiles](product/brains-modules-and-skills/configure-modules.md)
 * [Node Library](product/node-library/README.md)

@@ -18,7 +18,7 @@ description: >-
   * If the input is an array of simple values, it builds a single line CSV string.
   * If the input is an array of arrays, or an array of objects, a multiple-line CSV string is created.
 
-![](<../../../.gitbook/assets/image (24).png>)
+![](<../../../.gitbook/assets/image (24) (1).png>)
 
 ### Details
 
