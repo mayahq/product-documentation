@@ -1,9 +1,9 @@
 # Importing JSON Workflows
 
-An exported JSON automation workflow can be imported, installed, configured using the Maya import modal.&#x20;
+An exported JSON automation workflow is a self-contained automation that can be imported, installed, configured using the Maya import modal.&#x20;
 
 1. Create a new workspace or open an existing one.
-2. Go to the Hamburger menu > Select Import
+2. Go to the Hamburger menu > Select Import or use shortcut (Cmd/Ctrl + I)
 3. Copy-paste or select downloaded JSON file, and press Continue.
 
 ![](<../../.gitbook/assets/image (18).png>)
