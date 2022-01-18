@@ -34,7 +34,7 @@ The delay node is added after the Open node so that the page has some time to lo
 
 ### Test the flow
 
-Add an inject node at the beginning of the flow, and add a debug node at the end so you can see the results. An inject node is used to send a signal down the flow and run it.
+Add an inject node at the beginning of the flow, and add a debug node at the end so you can see the results, then click deploy to save the flow. An inject node is used to send a signal down the flow and run it.
 
 The final flow should look like this -
 
