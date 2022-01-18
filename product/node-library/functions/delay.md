@@ -17,7 +17,7 @@ description: >-
 
 Unmodified `msg` object is outputted at certain time intervals.
 
-![](<../../../.gitbook/assets/image (26).png>)
+![](<../../../.gitbook/assets/image (26) (1).png>)
 
 ### Details
 

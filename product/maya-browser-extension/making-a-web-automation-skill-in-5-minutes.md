@@ -32,25 +32,21 @@ Connect the query node to the find-tab flow. For this we need to connect it to t
 The delay node is added after the Open node so that the page has some time to load before we try to scrape.
 {% endhint %}
 
-### Turn this into a command
+### Test the flow
 
-Add a bot-command node to the beginning of the flow so you can trigger it from the Maya command bar, and add a debug node at the end so you can see the results. Also add a bot-response node at the end to tell Maya when the flow is done executing.
+Add an inject node at the beginning of the flow, and add a debug node at the end so you can see the results. An inject node is used to send a signal down the flow and run it.
 
-The final flow should look like this
+The final flow should look like this -
 
-![](<../../.gitbook/assets/image (38).png>)
+![](<../../.gitbook/assets/image (26).png>)
 
-Make sure you configure the bot-command node like this -&#x20;
-
-![The command to trigger this flow would consequently be "Get dog titles"](<../../.gitbook/assets/image (25).png>)
-
-Make sure you set the debug node to log the entire message. You can do this by selecting "complete msg object" in the Output field of the node.
-
-![](<../../.gitbook/assets/image (46).png>)
+{% hint style="info" %}
+Both the inject and debug nodes can be found towards the top of your node palette in the left of the editor.
+{% endhint %}
 
 ### Run the flow!
 
-Trigger the command bar and run the flow. Go to the debug section in the editor to see the logged message. The debug section can be accessed by clicking on the bug icon in the top-right of the editor.
+Click the button on the inject node to run the flow once. Go to the debug section in the editor to see the logged message. The debug section can be accessed by clicking on the bug icon in the top-right of the editor.
 
 ![](<../../.gitbook/assets/image (49).png>)
 
