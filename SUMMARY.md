@@ -81,8 +81,9 @@
     * [Search](product/node-library/maya-red-spotify/search.md)
 * [Web Extension](product/maya-browser-extension/README.md)
   * [Recording Xpaths](product/maya-browser-extension/recording-xpaths.md)
-* [Changelog](product/changelog.md)
+  * [Making a web automation skill in 5 minutes](product/maya-browser-extension/making-a-web-automation-skill-in-5-minutes.md)
 * [Troubleshooting](product/troubleshooting.md)
+* [Changelog](product/changelog.md)
 
 ## Tutorials <a href="#building-skills-1" id="building-skills-1"></a>
 

@@ -15,7 +15,7 @@ description: >-
 
 Outputs a standard `msg` object.
 
-![](<../../../.gitbook/assets/image (25).png>)
+![](<../../../.gitbook/assets/image (25) (1).png>)
 
 ### Details
 

@@ -23,7 +23,7 @@ description: Sends HTTP requests and returns the response.
 * `responseCookies` (object) : If the response includes cookies, this propery is an object of name/value pairs for each cookie.
 * `redirectList` (array) : If the request was redirected one or more times, the accumulated information will be added to this property. `location` is the next redirect destination. `cookies` is the cookies returned from the redirect source.
 
-![](<../../../../.gitbook/assets/image (46).png>)
+![](<../../../../.gitbook/assets/image (46) (1).png>)
 
 ### Details
 
