@@ -17,7 +17,7 @@ description: >-
 
 * `payload` (as per input) : If triggered the output will be the same as the input.
 
-![](<../../../.gitbook/assets/image (40).png>)
+![](<../../../.gitbook/assets/image (40) (1).png>)
 
 ### Details
 

@@ -20,7 +20,7 @@ This is a final node so doesn't have any outputs.
 * To : Select where all to output it to
 * Name : Name of the node instance
 
-![](<../../../.gitbook/assets/image (30).png>)
+![](<../../../.gitbook/assets/image (30) (1).png>)
 
 ### Details
 

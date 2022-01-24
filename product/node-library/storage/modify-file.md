@@ -15,7 +15,7 @@ description: >-
 
 On completion of write, input message is sent to output port.
 
-![](<../../../.gitbook/assets/image (47).png>)
+![](<../../../.gitbook/assets/image (47) (1).png>)
 
 ### Details
 
