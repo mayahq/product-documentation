@@ -28,3 +28,11 @@ Features like browser-based authentication and login which require the browser t
 1. Install `xdg-utils` on Ubuntu/Debian based installations
 2. Use `AppImageLauncher` (install from [here](https://github.com/TheAssassin/AppImageLauncher)) to help easily launch the AppImage file
 
+### Windows Defender Blocking Install
+
+On some older versions of Maya, Windows Defender might show this screen due to lack of an updated EV certificate.
+
+&#x20;![](<../.gitbook/assets/image (19).png>):&#x20;
+
+If you wish to bypass this, click on "More Info" and then press "Run Anyway".
+
