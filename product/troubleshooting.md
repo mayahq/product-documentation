@@ -36,3 +36,7 @@ On some older versions of Maya, Windows Defender might show this screen due to l
 
 If you wish to bypass this, click on "More Info" and then press "Run Anyway".
 
+### Deep links not working on Linux
+
+Maya uses deep links to help the browser communicate with the desktop, to enable easy browser-based authentication. On Linux-based distributions, like Ubuntu, this desktop integration requires installing AppImageLauncher, or it might fail. To fix this, you can install it from [here](https://github.com/TheAssassin/AppImageLauncher/releases/tag/v2.2.0).
+
