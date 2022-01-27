@@ -26,7 +26,7 @@ Features like browser-based authentication and login which require the browser t
 
 
 1. Install `xdg-utils` on Ubuntu/Debian based installations
-2. Use `AppImageLauncher` (install from [here](https://github.com/TheAssassin/AppImageLauncher)) to help easily launch the AppImage file
+2. Use `AppImageLauncher` (install from [here](https://github.com/TheAssassin/AppImageLauncher/releases)) to help easily launch the AppImage file
 
 ### Windows Defender Blocking Install
 
@@ -35,8 +35,4 @@ On some older versions of Maya, Windows Defender might show this screen due to l
 &#x20;![](<../.gitbook/assets/image (19).png>):&#x20;
 
 If you wish to bypass this, click on "More Info" and then press "Run Anyway".
-
-### Deep links not working on Linux
-
-Maya uses deep links to help the browser communicate with the desktop, to enable easy browser-based authentication. On Linux-based distributions, like Ubuntu, this desktop integration requires installing AppImageLauncher, or it might fail. To fix this, you can install it from [here](https://github.com/TheAssassin/AppImageLauncher/releases/tag/v2.2.0).
 
