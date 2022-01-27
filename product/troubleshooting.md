@@ -25,7 +25,9 @@ By default, the Maya chrome extension and browser integration only works with Ch
 Features like browser-based authentication and login which require the browser to communicate with the desktop app might fail on a Linux-based OS if `xdg-open` is missing/not working. Try the following : \
 
 
-1. Install `xdg-utils` on Ubuntu/Debian based installations
+1. Install `xdg-utils` on Ubuntu/Debian based installations by following [these steps](https://zoomadmin.com/HowToInstall/UbuntuPackage/xdg-utils) :
+   1. Run command `sudo apt-get update -y`
+   2. Run command `sudo apt-get install -y xdg-utils`
 2. Use `AppImageLauncher` (install from [here](https://github.com/TheAssassin/AppImageLauncher/releases)) to help easily launch the AppImage file
 
 ### Windows Defender Blocking Install
