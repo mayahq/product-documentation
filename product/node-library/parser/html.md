@@ -15,7 +15,7 @@ description: >-
 
 * `payload` (array | string) : the result can be either a single message with a payload containing an array of the matched elements, or multiple messages that each contain a matched element. If multiple messages are sent they will also have `parts` set.
 
-![](<../../../.gitbook/assets/image (32).png>)
+![](<../../../.gitbook/assets/image (32) (1).png>)
 
 ### Details
 

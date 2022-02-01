@@ -20,6 +20,14 @@ By default, the Maya chrome extension and browser integration only works with Ch
 
 ![](<../.gitbook/assets/image (54).png>)
 
+### Browser Workflows Erroring Out
+
+In some cases, workflows error out because Maya doesn't have permissions to access a given web page, indicated by the "off" label on the extension button in the toolbar. Just click on it and click "Allow" to give it permissions.
+
+&#x20;![](<../.gitbook/assets/image (32).png>)
+
+
+
 ### Failed Redirections From Browser On Linux
 
 Features like browser-based authentication and login which require the browser to communicate with the desktop app might fail on a Linux-based OS if `xdg-open` is missing/not working. Try the following : \
