@@ -82,7 +82,7 @@
     * [Playlist](product/node-library/maya-red-spotify/playlist.md)
     * [Search](product/node-library/maya-red-spotify/search.md)
 * [Web Extension](product/maya-browser-extension/README.md)
-  * [Recording Xpaths](product/maya-browser-extension/recording-xpaths.md)
+  * [Selecting Elements](product/maya-browser-extension/recording-xpaths.md)
   * [Making a web automation skill in 5 minutes](product/maya-browser-extension/making-a-web-automation-skill-in-5-minutes.md)
 * [Troubleshooting](product/troubleshooting.md)
 * [Changelog](product/changelog.md)
@@ -90,7 +90,7 @@
 ## Tutorials <a href="#building-skills-1" id="building-skills-1"></a>
 
 * [Install skills/modules from store](building-skills-1/install-from-the-store.md)
-* [Skill building fundamentals](building-skills-1/skill-building-fundamentals.md)
+* [Building fundamentals](building-skills-1/skill-building-fundamentals.md)
 * [Connect different services](building-skills-1/play-work-playlist-on-spotify-and-open-your-figma-project/README.md)
   * [Spotify + Figma](building-skills-1/play-work-playlist-on-spotify-and-open-your-figma-project/spotify-+-figma.md)
   * [Zoom + Google Calendar](building-skills-1/play-work-playlist-on-spotify-and-open-your-figma-project/zoom-+-google-calendar.md)
@@ -98,16 +98,3 @@
   * [Control YouTube - Easy](building-skills-1/control-youtube-in-your-browser/control-youtube-easy.md)
   * [Scrape Twitter - Moderate](building-skills-1/control-youtube-in-your-browser/scrape-twitter-moderate.md)
   * [Manage Gmail Inbox - Hard](building-skills-1/control-youtube-in-your-browser/manage-gmail-inbox-hard.md)
-* [Sync contacts](building-skills-1/sync-contacts.md)
-
-## Miscellaneous
-
-* [Maya WebQL](miscellaneous/maya-webql.md)
-* [Using Maya Browser Extension to get xpaths](miscellaneous/using-maya-browser-extension-to-get-xpaths.md)
-* [FAQ](miscellaneous/faq.md)
-
-***
-
-* [Get Playback State](get-playback-state.md)
-* [Search](search.md)
-* [Control Playback](control-playback.md)
