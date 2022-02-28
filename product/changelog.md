@@ -2,6 +2,17 @@
 
 Find latest releases [here](https://github.com/mayahq/maya-desktop/releases).
 
+### v0.13.1-beta
+
+2022/1/28
+
+* \[New] Task manager on dashboard long running repeatable tasks (uses Maya Bot Utils module)
+* \[New] Maya Releases for Windows now available (finally!)
+* \[New] Share and install automation collections with single link to a valid json file hosted anywhere
+* \[New] Crash recovery and notification for unrecovarable failures in automation workspace
+* \[Enhance] In editor store and dashboard accessibility buttons
+* \[Enhanced] Updated Maya Browser Automation extension for browsers for easier automation
+
 ### v0.13.0-beta
 
 2021/12/18
